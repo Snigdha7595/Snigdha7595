@@ -152,14 +152,6 @@ An AI-assisted prototype designed to support multilingual cybercrime complaint i
 ## 📈 GitHub Journey
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Snigdha7595&theme=github-compact&hide_border=true&area=true"
-    width="95%"
-    alt="Snigdha's GitHub Activity Graph"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/Snigdha7595?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-11-181717?style=flat-square&logo=github" />
   </a>
