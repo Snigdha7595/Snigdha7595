@@ -153,12 +153,23 @@ An AI-assisted prototype designed to support multilingual cybercrime complaint i
 ## 📈 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snigdha7595&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snigdha7595&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github.com/users/Snigdha7595/contributions" alt="Snigdha's GitHub contribution graph" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snigdha7595&layout=compact&hide_border=true&theme=transparent" />
+  <i>Every square represents a little more code, learning, and progress. 🚀</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Snigdha7595">
+    <img src="https://img.shields.io/badge/39%20contributions%20in%20the%20last%20year-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Snigdha7595?tab=repositories">
+    <img src="https://img.shields.io/badge/11%20public%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Snigdha7595?tab=stars">
+    <img src="https://img.shields.io/badge/2%20stars-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
